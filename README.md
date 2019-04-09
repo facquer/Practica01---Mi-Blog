@@ -5,7 +5,11 @@ Practicando HTML5 Por Angel Ruiz
 ![Imagen Git](capturas/git.png)
 
 Nombre de usuario: Facquer
+
+
 Enlace del repositorio de la practica: https://github.com/facquer/Practica01---Mi-Blog
+
+
 Enlace repositorio tutorial Thai: https://github.com/facquer/tutorialThai
 
 2.	Commits y push
