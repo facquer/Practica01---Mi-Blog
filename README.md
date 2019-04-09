@@ -51,17 +51,17 @@ Estructura de mis paginas HTML:
 ![Imagen Git](capturas/estructura.png)
 
 
-Todas las paginas cuentan con un <head> que contiene el título, además en el <body> todas tienes un <header> que contiene el logo de la página como la barra de navegación.
+Todas las paginas cuentan con un `<head>` que contiene el título, además en el `<body>` todas tienes un `<header>` que contiene el logo de la página como la barra de navegación.
   
 ![Imagen Git](capturas/footer.png)
 
 
-Además, todas la paginas cuentan con un <footer> para identificar el auto, en este caso soy yo.
+Además, todas la paginas cuentan con un `<footer>` para identificar el auto, en este caso soy yo.
 
 ![Imagen Git](capturas/article.png)
 
 
-La estructura general de mis paginas HTML, manejan un formato similar a este, en algunas varia un poco pero es el mismo formato, uno o dos <section> que contiene uno o dos <article> y uno o dos <aside>, además cada artículo cuenta con su <header> correspondiente.
+La estructura general de mis paginas HTML, manejan un formato similar a este, en algunas varia un poco pero es el mismo formato, uno o dos `<section>` que contiene uno o dos `<article>` y uno o dos `<aside>`, además cada artículo cuenta con su `<header>` correspondiente.
  
  
  
@@ -70,7 +70,7 @@ Etiquetas utilizadas para resolver los problemas planteados.
 
 
 Para insertar vides de youtube se utiliza la siguiente línea:
-<iframe width="560" height="315" src="EnlanceDeYoutubeAqui" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+`<iframe width="560" height="315" src="EnlanceDeYoutubeAqui" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
 Donde a dicha etiqueta se le dan atributo como el tamaño y lo que deseas permitirle hacer.
 
 
